@@ -42,7 +42,7 @@ public class GameManager : MonoBehaviour
     private int previousDetected = 0;
     private int previousRecovered = 0;
     private int previousDeath = 0;
-    private string path = @"./temp.csv";
+    private string path = @"/Users/mittyhainan/Desktop/Aip197_Anti-virus_GameDev/Anti-CoronaVirus/Assets/Scripts/temp.csv";
 
     // Start is called before the first frame update
     void Start()
